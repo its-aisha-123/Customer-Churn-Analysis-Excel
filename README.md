@@ -42,7 +42,7 @@ In this case study, I explored a telecom dataset to determine which customer seg
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 - Open `Customer_Churn_Analysis.xlsx` in Excel (2016 or later recommended).
 - Explore the dashboard sheet to interact with slicers and filters.
@@ -56,14 +56,14 @@ This project was completed as part of the DataCamp course on customer churn anal
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview]<img width="1547" height="678" alt="Screenshot 2025-07-17 150419" src="https://github.com/user-attachments/assets/6d01b291-436e-4ff1-84d4-411dfdb46bc4" />
 
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out via GitHub or LinkedIn if you have feedback or collaboration ideas.
 
