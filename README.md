@@ -39,6 +39,8 @@ In this case study, I explored a telecom dataset to determine which customer seg
 
 - `Customer_Churn_Analysis.xlsx` — The complete Excel file including cleaned data, PivotTables, and interactive dashboard
 - `Screenshots/` — Images of key visual from the dashboard
+-  Metadata Sheet
+-  Readme File
 
 ---
 
